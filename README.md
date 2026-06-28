@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm [Samuel]
+# 👋 Hi, I'm Samuel
 
 I'm an aspiring Web Developer based in Lagos, Nigeria. 
 Currently learning: HTML, CSS, and JavaScript.
